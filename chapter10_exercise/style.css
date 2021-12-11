@@ -78,6 +78,7 @@ footer {
     margin-right: 0;
     margin-bottom: 20px;
     display: inline-block;
+    text-align: left;
   }
   .step-box:last-child {
     margin-bottom: 0;
